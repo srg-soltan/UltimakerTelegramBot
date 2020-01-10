@@ -1,0 +1,5 @@
+.vscode/
+*.pyc
+*.env
+config/authorized_users.json
+*__pycache__/

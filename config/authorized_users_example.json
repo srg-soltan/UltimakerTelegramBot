@@ -1,0 +1,10 @@
+{
+    "access_levels": [
+        "monitor",
+        "control"
+    ],
+
+    "users": [
+        {"id": "INSERT TELEGRAM USER ID", "name": "NAME OF THE USER (CAN BE ARBITRARY)", "access_level": "INDER TO THE access_levels ARRAY (MUST BE A NUMBER)", "notify": true},
+    ]
+}
