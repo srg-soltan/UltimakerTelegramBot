@@ -10,6 +10,7 @@ USERS = []
 NOTIFY_GROUP = set()
 
 def auth_load_users(users_config):
+    global NOTIFY_GROUP
     ACCESS_LEVELS = users_config['access_levels']
 
     USERS = users_config['users']
